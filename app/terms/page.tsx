@@ -178,8 +178,8 @@ export default function TermsPage() {
             </h2>
             <p>
               <strong>Odisha Healthcare</strong> <br />
-              Email: Odisha Healthcare.in@gmail.com <br />
-              Phone: +91 9148733700 <br />
+              Email: odishahealthcare@gmail.com <br />
+              Phone: +91 7381586575 <br />
               Website: https://Odisha Healthcare.in <br />
               Working Hours: Monday – Friday (09:00 AM – 06:00 PM)
             </p>

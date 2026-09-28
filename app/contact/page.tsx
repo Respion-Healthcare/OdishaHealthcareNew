@@ -93,11 +93,11 @@ export default function ContactPage() {
                   </h2>
 
                   <p className="text-gray-600 leading-relaxed">
-                    702, 13th Cross Rd, 1st Phase,
+                    Plot No 331 A, 
                     <br />
-                    J.P Nagar, Bengaluru,
+                    Saheed Nagar, 
                     <br />
-                    Karnataka 560078
+                    Bhubaneswar, Odisha 751007
                   </p>
                 </div>
               </div>
@@ -118,10 +118,10 @@ export default function ContactPage() {
                   </p>
 
                   <a
-                    href="tel:+919148733700"
+                    href="tel:+917381586575"
                     className="text-[#0391B6] font-semibold text-lg hover:underline"
                   >
-                    +91 9148733700
+                    +91 7381586575
                   </a>
                 </div>
               </div>
@@ -142,10 +142,10 @@ export default function ContactPage() {
                   </p>
 
                   <a
-                    href="mailto:Odisha Healthcare.in@gmail.com"
+                    href="mailto:odishahealthcare@gmail.com"
                     className="text-[#0391B6] font-semibold hover:underline break-all"
                   >
-                    Odisha Healthcare.in@gmail.com
+                    odishahealthcare@gmail.com
                   </a>
                 </div>
               </div>

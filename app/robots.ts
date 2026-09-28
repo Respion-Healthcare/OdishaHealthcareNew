@@ -32,6 +32,6 @@ export default function robots(): MetadataRoute.Robots {
       },
     ],
 
-    sitemap: "https://Odisha Healthcare.in/sitemap.xml",
+    sitemap: "https://odishahealthcare.in/sitemap.xml",
   };
 }

@@ -89,7 +89,7 @@ export default function AboutPage() {
 
         <meta name="viewport" content="width=device-width, initial-scale=1" />
 
-        <link rel="canonical" href="https://Odisha Healthcare.in/about" />
+        <link rel="canonical" href="https://odishahealthcare.in/about" />
 
         {/* OPEN GRAPH */}
         <meta
@@ -104,10 +104,10 @@ export default function AboutPage() {
 
         <meta
           property="og:image"
-          content="https://Odisha Healthcare.in/images/aboutus.webp"
+          content="https://odishahealthcare.in/images/aboutus.webp"
         />
 
-        <meta property="og:url" content="https://Odisha Healthcare.in/about" />
+        <meta property="og:url" content="https://odishahealthcare.in/about" />
 
         <meta property="og:type" content="website" />
 
@@ -119,10 +119,10 @@ export default function AboutPage() {
               "@context": "https://schema.org",
               "@type": "MedicalBusiness",
               name: "Odisha Healthcare",
-              image: "https://Odisha Healthcare.in/images/aboutus.webp",
-              url: "https://Odisha Healthcare.in",
-              telephone: "+91-9148733700",
-              email: "Odisha Healthcare.in@gmail.com",
+              image: "https://odishahealthcare.in/images/aboutus.webp",
+              url: "https://odishahealthcare.in",
+              telephone: "+91-7381586575",
+              email: "odishahealthcare@gmail.com",
               description:
                 "Odisha Healthcare provides CPAP, BiPAP, oxygen concentrators and respiratory healthcare solutions across India.",
             }),
@@ -465,7 +465,7 @@ export default function AboutPage() {
 
                      {/* CALL */}
                   <a
-                    href="tel:+919148733700"
+                    href="tel:+917381586575"
                     className="block rounded-2xl bg-gradient-to-r from-blue-50 to-cyan-50 p-4 sm:p-5 hover:shadow-lg hover:-translate-y-1 transition duration-300"
                   >
 
@@ -474,7 +474,7 @@ export default function AboutPage() {
                     </p>
 
                     <p className="text-xl font-black text-gray-900 hover:text-[#0391B6] transition">
-                      +91 9148733700
+                      +91 7381586575
                     </p>
 
                   </a>
@@ -486,7 +486,7 @@ export default function AboutPage() {
 
                      {/* EMAIL */}
                   <a
-                    href="mailto:Odisha Healthcare.in@gmail.com"
+                    href="mailto:odishahealthcare@gmail.com"
                     className="block rounded-2xl bg-gradient-to-r from-blue-50 to-cyan-50 p-4 sm:p-5 hover:shadow-lg hover:-translate-y-1 transition duration-300"
                   >
 
@@ -495,7 +495,7 @@ export default function AboutPage() {
                     </p>
 
                     <p className="text-base font-semibold text-gray-800 break-all hover:text-[#0391B6] transition">
-                      Odisha Healthcare.in@gmail.com
+                      odishahealthcare@gmail.com
                     </p>
 
                   </a>
@@ -508,11 +508,11 @@ export default function AboutPage() {
                     </p>
 
                     <p className="text-sm sm:text-base text-gray-700 leading-relaxed">
-                      702, 13th Cross Rd, 1st Phase,
+                    Plot No 331 A, 
                       <br />
-                      J.P Nagar, Bengaluru,
+                       Saheed Nagar, Bhubaneswar,
                       <br />
-                      Karnataka - 560078
+                      Odisha 751007
                     </p>
 
                   </div>

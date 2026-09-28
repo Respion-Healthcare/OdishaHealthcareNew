@@ -13,7 +13,7 @@ export default function InquiryButton({
   className = "",
   size = "sm",
   label = "Inquire Now",
-  phoneNumber = "9937000606",
+  phoneNumber = "7381586575",
 }: InquiryButtonProps) {
   const handleClick = (e: React.MouseEvent) => {
     e.preventDefault()

@@ -96,8 +96,8 @@ export default function ReturnPolicyPage() {
           </p>
 
           <div className="mt-3">
-            <p>Email: Odisha Healthcare.in@gmail.com</p>
-            <p>Phone: +91 9148733700</p>
+            <p>Email:odishahealthcare@gmail.com</p>
+            <p>Phone: +91 7381586575</p>
           </div>
         </section>
 

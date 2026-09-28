@@ -84,7 +84,7 @@ export default function SleepTherapyPage() {
           <div className="mt-8 flex flex-wrap justify-center gap-4">
 
             <a
-              href="tel:9148733700"
+              href="tel:7381586575"
               className="rounded-full bg-white px-8 py-3 font-semibold text-[#0391B6]"
             >
               Call: +91 91487 33700

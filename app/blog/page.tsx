@@ -10,7 +10,7 @@ export const metadata: Metadata = {
   description:
     "Read expert guides on CPAP machines, sleep apnea, oxygen therapy, and respiratory care in India. Compare prices, features, and buying tips.",
   alternates: {
-    canonical: "https://www.Odisha Healthcare.in/blog",
+    canonical: "https://www.odishahealthcare.in/blog",
   },
   robots: {
     index: true,

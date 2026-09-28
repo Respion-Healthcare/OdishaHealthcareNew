@@ -26,17 +26,17 @@ export async function generateMetadata({
     description: blog.excerpt,
 
     alternates: {
-      canonical: `https://Odisha Healthcare.in/blog/${safeSlug}`,
+      canonical: `https://odishahealthcare.in/blog/${safeSlug}`,
     },
 
     openGraph: {
       title: blog.title,
       description: blog.excerpt,
-      url: `https://Odisha Healthcare.in/blog/${safeSlug}`,
+      url: `https://odishahealthcare.in/blog/${safeSlug}`,
       type: "article",
       images: [
         {
-          url: `https://Odisha Healthcare.in${blog.image}`,
+          url: `https://odishahealthcare.in${blog.image}`,
           width: 1200,
           height: 630,
           alt: blog.title,
@@ -48,7 +48,7 @@ export async function generateMetadata({
       card: "summary_large_image",
       title: blog.title,
       description: blog.excerpt,
-      images: [`https://Odisha Healthcare.in${blog.image}`],
+      images: [`https://odishahealthcare.in${blog.image}`],
     },
 
     robots: {

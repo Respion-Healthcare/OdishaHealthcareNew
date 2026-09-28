@@ -25,7 +25,7 @@ export const metadata: Metadata = {
     title: "Odisha Healthcare - CPAP, BiPAP & Oxygen Concentrators",
     description:
       "Buy sleep apnea machines and oxygen concentrators online in India.",
-    url: "https://Odisha Healthcare.in",
+    url: "https://odishahealthcare.in",
     siteName: "Odisha Healthcare",
     type: "website",
   },

@@ -33,7 +33,7 @@ export default function Footer() {
               fast delivery and trusted respiratory care support.
             </p>
 
-            <div className="flex gap-5 pt-2">
+            {/* <div className="flex gap-5 pt-2">
 
               <a
                 href="https://www.facebook.com/profile.php?id=61576509153350"
@@ -62,7 +62,7 @@ export default function Footer() {
                 <Instagram className="w-5 h-5 text-gray-500 hover:text-[#0391B6] hover:scale-110 transition duration-300 cursor-pointer" />
               </a>
 
-            </div>
+            </div> */}
           </div>
 
           {/* Quick Links */}
@@ -189,25 +189,24 @@ export default function Footer() {
             <ul className="space-y-2 text-sm text-gray-600 leading-relaxed">
 
               <li>
-                702, 13th Cross Rd, 1st Phase, J.P Nagar,
-                Bengaluru, Karnataka, 560078
+               Plot No 331 A, Saheed Nagar, Bhubaneswar, Odisha 751007
               </li>
 
               <li>
                 <a
-                  href="mailto:Odisha Healthcare.in@gmail.com"
+                  href="mailto:odishahealthcare@gmail.com"
                   className="hover:text-[#0391B6] transition duration-300"
                 >
-                  Odisha Healthcare.in@gmail.com
+                 odishahealthcare@gmail.com
                 </a>
               </li>
 
               <li>
                 <a
-                  href="tel:+919148733700"
+                  href="tel:+917381586575"
                   className="hover:text-[#0391B6] transition duration-300"
                 >
-                  +91 9148733700
+                  +91 7381586575
                 </a>
               </li>
 
@@ -219,7 +218,7 @@ export default function Footer() {
 
       {/* Bottom Bar */}
       <div className="border-t border-[#BFEAF3] py-3 text-center text-sm text-gray-500 bg-[#f3f8ff]">
-        © 2025 Odisha Healthcare. All Rights Reserved.
+        © 2015 Odisha Healthcare. All Rights Reserved.
       </div>
     </footer>
   )

@@ -32,12 +32,12 @@ export default function ShippingPage() {
               publisher: {
                 "@type": "Organization",
                 name: "Odisha Healthcare",
-                url: "https://Odisha Healthcare.in",
+                url: "https://odishahealthcare.in",
                 contactPoint: {
                   "@type": "ContactPoint",
                   contactType: "Customer Support",
-                  email: "Odisha Healthcare.in@gmail.com",
-                  telephone: "+91-9148733700",
+                  email: "odishahealthcare@gmail.com",
+                  telephone: "+91-7381586575",
                   areaServed: "IN",
                 },
               },
@@ -135,8 +135,8 @@ export default function ShippingPage() {
               <h2 className="text-2xl font-semibold text-gray-900 mb-4">
                 📩 Contact Information
               </h2>
-              <p><strong>Email:</strong> Odisha Healthcare.in@gmail.com</p>
-              <p><strong>Phone:</strong> +91 9148733700</p>
+              <p><strong>Email:</strong>odishahealthcare@gmail.com</p>
+              <p><strong>Phone:</strong> +91 7381586575</p>
               <p><strong>Website:</strong> https://Odisha Healthcare.in</p>
               <p className="mt-4 text-sm text-gray-600">
                 For vendor-specific shipping inquiries, please refer to your order confirmation details.

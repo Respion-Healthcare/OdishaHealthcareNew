@@ -32,12 +32,12 @@ export default function PrivacyPage() {
               publisher: {
                 "@type": "Organization",
                 name: "Odisha Healthcare",
-                url: "https://Odisha Healthcare.in",
+                url: "https://odishahealthcare.in",
                 contactPoint: {
                   "@type": "ContactPoint",
                   contactType: "Customer Support",
-                  email: "Odisha Healthcare.in@gmail.com",
-                  telephone: "+91-9148733700",
+                  email: "odishahealthcare@gmail.com",
+                  telephone: "+91-7381586575",
                   areaServed: "IN",
                 },
               },
@@ -196,8 +196,8 @@ export default function PrivacyPage() {
                 📩 Grievance Officer
               </h2>
               <p><strong>Company:</strong> Odisha Healthcare</p>
-              <p><strong>Email:</strong> Odisha Healthcare.in@gmail.com</p>
-              <p><strong>Phone:</strong> +91 9148733700</p>
+              <p><strong>Email:</strong> odishahealthcare@gmail.com</p>
+              <p><strong>Phone:</strong> +91 7381586575</p>
               <p><strong>Working Hours:</strong> Monday – Friday (09:00 AM – 06:00 PM)</p>
               <p><strong>Website:</strong> https://Odisha Healthcare.in</p>
             </section>
